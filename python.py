@@ -5,11 +5,11 @@ path='C:\Users\nitin\Desktop\Tor Browser\Browser\firefox.exe %s'
 
 
 while x!=0:
-  ##webbrowser.get(path).open('https://www.ghuguti.com/')
+  ##webbrowser.get(path).open('https://livescore365.netlify.app/')
   ##time.sleep(15)
-  webbrowser.open('https://www.ghuguti.com/')
+  webbrowser.open('https://livescore365.netlify.app/')
   time.sleep(15)
-  webbrowser.open_new_tab('https://www.ghuguti.com/')
+  webbrowser.open_new_tab('https://livescore365.netlify.app/)
   time.sleep(20)
   x +=1
     
